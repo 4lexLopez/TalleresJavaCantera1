@@ -24,29 +24,36 @@ public class Taller4Punto4 {
 
     public void Taller4Punto4() {
         System.out.println("Organizando la matriz\n");
+        System.out.println("Matriz inicial\n");
         testArray = new String[4][5];
         // fill the matrix as suggested above
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 4; j++) {
+        for (int i = 0; i < 4; i++) {
+            for (int j = 0; j < 5; j++) {
                 contador++;
                 if (contador < 10) {
                     testArray[i][j] = "0" + contador;
                 } else {
                     testArray[i][j] = Integer.toString(contador);
                 }
+                // printing initial matrix
+                System.out.print(testArray[i][j] + "    ");
             }
+            System.out.println("");
         }
+        System.out.println("");
 
+        System.out.println("Matriz ordenada:\n");
         // sort the matrix as suggested above:
-        for (int i = 0; i < 3; i++) {
-            // print the column-index in descendant order when odd:
+        for (int i = 0; i < 4; i++) {
             if (i % 2 != 0) {
-                for (int j = 4; j > 0; j--) {
+                // print the column-index in descendant order when odd:
+                for (int j = 4; j >= 0; j--) {
                     System.out.print(testArray[i][j] + "    ");
                 }
                 System.out.println("");
             } else {
-                for (int j = 0; j < 4; j++) {
+                // print the column-index in ascendant order when odd:
+                for (int j = 0; j <= 4; j++) {
                     System.out.print(testArray[i][j] + "    ");
                 }
                 System.out.println("");

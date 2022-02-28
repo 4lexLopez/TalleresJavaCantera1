@@ -21,6 +21,7 @@ import com.sofka.Taller4.Taller4Punto1.Taller4Punto1;
 import com.sofka.Taller4.Taller4Punto2.Taller4Punto2;
 import com.sofka.Taller4.Taller4Punto3.Taller4Punto3;
 import com.sofka.Taller4.Taller4Punto4.Taller4Punto4;
+import com.sofka.Taller4.Taller4Punto5.Taller4Punto5;
 
 import java.util.Scanner;
 
@@ -210,21 +211,13 @@ public class Main {
                 Taller4Punto4 t4p4= new Taller4Punto4();
                 t4p4.Taller4Punto4();
                 return true;
-            /*case "5":
+            case "5":
                 Taller4Punto5 t4p5 = new Taller4Punto5();
                 t4p5.Taller4Punto5();
                 return true;
-            case "6":
-                Taller4Punto6 t1p6= new Taller4Punto6();
-                t1p6.Taller4Punto6();
-                return true;
-            case "7":
-                Taller4Punto7 t1p7= new Taller4Punto7();
-                t1p7.Taller4Punto7();
-                return true;
             case "0":
                 System.out.println("Programa finalizado.");
-                return false;*/
+                return false;
             default:
                 System.out.println("Opcion incorrecta");
                 // add break line:
