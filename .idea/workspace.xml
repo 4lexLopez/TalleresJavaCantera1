@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df14d8e9-cdec-48c1-8329-17dd5df4ac6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/talleresJava.iml" afterDir="false" />
+    <list default="true" id="df14d8e9-cdec-48c1-8329-17dd5df4ac6e" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/Taller4Punto3/Taller4Punto3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/Taller4Punto4/Taller4Punto4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/talleresJava/com/sofka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/talleresJava/com/sofka/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofka/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller4/Taller4Punto2/Taller4Punto2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/Taller4Punto2/Taller4Punto2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="4lexLopez &lt;alex.roman.lopez@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -132,6 +134,28 @@
       <option name="presentableId" value="Default" />
       <updated>1645576068126</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1646022507898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646022507898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1646023072534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646023072534</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1646023385518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646023385518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +169,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -155,5 +190,9 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
+    <MESSAGE value="initial Commit" />
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>

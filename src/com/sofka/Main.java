@@ -18,6 +18,9 @@ import com.sofka.Taller3.Taller3Punto3.Taller3Punto3;
 import com.sofka.Taller3.Taller3Punto4.Taller3Punto4;
 import com.sofka.Taller3.Taller3Punto5.Taller3Punto5;
 import com.sofka.Taller4.Taller4Punto1.Taller4Punto1;
+import com.sofka.Taller4.Taller4Punto2.Taller4Punto2;
+import com.sofka.Taller4.Taller4Punto3.Taller4Punto3;
+import com.sofka.Taller4.Taller4Punto4.Taller4Punto4;
 
 import java.util.Scanner;
 
@@ -195,19 +198,19 @@ public class Main {
                 Taller4Punto1 t4p1 = new Taller4Punto1();
                 t4p1.Taller4Punto1();
                 return true;
-            /*case "2":
+            case "2":
                 Taller4Punto2 t4p2 = new Taller4Punto2();
                 t4p2.Taller4Punto2();
                 return true;
             case "3":
-                Taller4Punto3 t4p3 = new Taller4Punto4();
+                Taller4Punto3 t4p3 = new Taller4Punto3();
                 t4p3.Taller4Punto3();
                 return true;
             case "4":
                 Taller4Punto4 t4p4= new Taller4Punto4();
                 t4p4.Taller4Punto4();
                 return true;
-            case "5":
+            /*case "5":
                 Taller4Punto5 t4p5 = new Taller4Punto5();
                 t4p5.Taller4Punto5();
                 return true;
