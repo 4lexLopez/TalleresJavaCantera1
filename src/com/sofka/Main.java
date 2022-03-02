@@ -12,6 +12,7 @@ import com.sofka.Taller2.Taller2Punto4.Taller2Punto4;
 import com.sofka.Taller2.Taller2Punto5.Taller2Punto5;
 import com.sofka.Taller2.Taller2Punto6.Taller2Punto6;
 import com.sofka.Taller2.Taller2Punto7.Taller2Punto7;
+import com.sofka.Taller2.Taller2Punto8.Taller2Punto8;
 import com.sofka.Taller3.Taller3Punto1.Taller3Punto1;
 import com.sofka.Taller3.Taller3Punto2.Taller3Punto2;
 import com.sofka.Taller3.Taller3Punto3.Taller3Punto3;
@@ -140,6 +141,10 @@ public class Main {
             case "7":
                 Taller2Punto7 t1p7= new Taller2Punto7();
                 t1p7.Taller2Punto7();
+                return true;
+            case "8":
+                Taller2Punto8 t1p8= new Taller2Punto8();
+                t1p8.Taller2Punto8();
                 return true;
             case "0":
                 System.out.println("Programa finalizado.");

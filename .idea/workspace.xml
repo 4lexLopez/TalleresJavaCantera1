@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df14d8e9-cdec-48c1-8329-17dd5df4ac6e" name="Changes" comment="added 3 more items from arrays practice">
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/Taller4Punto5/Taller4Punto5.java" afterDir="false" />
+    <list default="true" id="df14d8e9-cdec-48c1-8329-17dd5df4ac6e" name="Changes" comment="added item 4 and 5 from arrays practice">
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Taller2Punto8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/talleresJava/com/sofka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/talleresJava/com/sofka/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sofka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofka/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller4/Taller4Punto4/Taller4Punto4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/Taller4Punto4/Taller4Punto4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646032953527</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added item 4 and 5 from arrays practice">
+      <created>1646068067607</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646068067607</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +208,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added 3 more items from arrays practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 3 more items from arrays practice" />
+    <MESSAGE value="added item 4 and 5 from arrays practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="added item 4 and 5 from arrays practice" />
   </component>
 </project>
