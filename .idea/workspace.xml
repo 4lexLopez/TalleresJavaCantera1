@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df14d8e9-cdec-48c1-8329-17dd5df4ac6e" name="Changes" comment="added item 4 and 5 from arrays practice">
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Taller2Punto8.java" afterDir="false" />
+    <list default="true" id="df14d8e9-cdec-48c1-8329-17dd5df4ac6e" name="Changes" comment="added item 8 from conditionals practice">
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Taller3Punto6/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Taller3Punto6/Taller3Punto6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/talleresJava/com/sofka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/talleresJava/com/sofka/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sofka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofka/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Taller2Punto8/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646068067607</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added item 8 from conditionals practice">
+      <created>1646189830760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646189830760</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +216,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added 3 more items from arrays practice" />
     <MESSAGE value="added item 4 and 5 from arrays practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="added item 4 and 5 from arrays practice" />
+    <MESSAGE value="added item 8 from conditionals practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="added item 8 from conditionals practice" />
   </component>
 </project>

@@ -18,6 +18,7 @@ import com.sofka.Taller3.Taller3Punto2.Taller3Punto2;
 import com.sofka.Taller3.Taller3Punto3.Taller3Punto3;
 import com.sofka.Taller3.Taller3Punto4.Taller3Punto4;
 import com.sofka.Taller3.Taller3Punto5.Taller3Punto5;
+import com.sofka.Taller3.Taller3Punto6.Taller3Punto6;
 import com.sofka.Taller4.Taller4Punto1.Taller4Punto1;
 import com.sofka.Taller4.Taller4Punto2.Taller4Punto2;
 import com.sofka.Taller4.Taller4Punto3.Taller4Punto3;
@@ -179,11 +180,11 @@ public class Main {
                 Taller3Punto5 t3p5 = new Taller3Punto5();
                 t3p5.Taller3Punto5();
                 return true;
-            /*case "6":
-                Taller3Punto6 t1p6= new Taller3Punto6();
-                t1p6.Taller3Punto6();
+            case "6":
+                Taller3Punto6 t3p6= new Taller3Punto6();
+                t3p6.Taller3Punto6();
                 return true;
-            case "7":
+            /*case "7":
                 Taller3Punto7 t1p7= new Taller3Punto7();
                 t1p7.Taller3Punto7();
                 return true;
@@ -268,6 +269,7 @@ public class Main {
         System.out.println("3. Punto #3.");
         System.out.println("4. Punto #4.");
         System.out.println("5. Punto #5.");
+        System.out.println("6. Punto #6.");
         System.out.println("0. Retornar al menu principal.");
     }
 
